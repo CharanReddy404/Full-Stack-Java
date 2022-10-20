@@ -33,7 +33,26 @@ public class Main {
 //        TeenNumberChecker t = new TeenNumberChecker();
 //        System.out.println(t.hasTeen(19,199,1999));
 
+//        AreaCalculator
+//        AreaCalculator a = new AreaCalculator();
+//        System.out.println(a.area(5.0));
+//        System.out.println(a.area(5.0,4.0));
 
+//        MinutesToYearsDaysCalculator
+//        MinutesToYearsDaysCalculator m = new MinutesToYearsDaysCalculator();
+//        m.printYearsAndDays(1051200);
 
+//        IntEqualityPrinter
+//        IntEqualityPrinter i = new IntEqualityPrinter();
+//        i.printEqual(-1,2,2);
+//        i.printEqual(1,1,1);
+//        i.printEqual(2,3,3);
+//        i.printEqual(1,2,3);
+
+//        PlayingCat
+        PlayingCat c = new PlayingCat();
+        System.out.println(c.isCatPlaying(true, 10));
+        System.out.println(c.isCatPlaying(false, 36));
+        System.out.println(c.isCatPlaying(false, 35));
     }
 }
