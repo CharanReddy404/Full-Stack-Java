@@ -50,9 +50,9 @@ public class Main {
 //        i.printEqual(1,2,3);
 
 //        PlayingCat
-        PlayingCat c = new PlayingCat();
-        System.out.println(c.isCatPlaying(true, 10));
-        System.out.println(c.isCatPlaying(false, 36));
-        System.out.println(c.isCatPlaying(false, 35));
+//        PlayingCat c = new PlayingCat();
+//        System.out.println(c.isCatPlaying(true, 10));
+//        System.out.println(c.isCatPlaying(false, 36));
+//        System.out.println(c.isCatPlaying(false, 35));
     }
 }
